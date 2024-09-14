@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Wie lautet die Telefonummer der FES Frankfurter Entsorgungs- und Service GmbH?",
+    "answer": "Die Telefonnummer der FES ist 0800 2008007-0"
+  },
+  {
+    "question": "Wie entsorge ich mein Altglas?",
+    "answer": "Um Ihr Altglas ordnungsgemäß zu entsorgen, sollten Sie es in einem Altglascontainer an öffentlichen Plätzen oder auf FES-Wertstoffhöfen entsorgen."
+  },
+  {
+  "question": "Wie lautet die Telefonummer der FES in Frankfurt-Bornheim?",
+  "gt_answer": "Die Telefonnummer der FES in Frankfurt-Bornheim ist +49 69 94 21 63 - 100"
+  }
+]

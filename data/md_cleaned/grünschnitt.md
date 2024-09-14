@@ -1,0 +1,6 @@
+Grünschnittentsorgung frei Haus
+Wir holen Ihren Grün- und Gehölzschnitt direkt von Ihren Liegenschaften an festen Terminen.
+
+Drei Wochen lang steuern wir jeweils im Frühjahr und Herbst nach und nach alle Stadtteile an. Das abzuholende Schnittgut soll auf ein Meter gekürzt und in Bündeln zusammengebunden an der Grundstücksgrenze abgelegt werden. Pro Liegenschaft werden bis zu drei Kubikmeter mitgenommen. Außerdem kann kleintieiliger Grünschnitt  (z.B. aus dem Rückschnitt von Hecken) in kompostierbaren Papiersäcken bereitgestellt werden. Der Service kostet nichts extra, sondern wird über die allgemeinen Abfallgebühren der Stadt Frankfurt finanziert. Allerdings ist das Kontingent begrenzt. Eine Anmeldung muss spätestens zwei Werktage vor dem Abholtermin erfolgt sein. Wer keinen Termin erhält, kann seinen Grünabfall weiterhin zu einem der sechs Wertstoffhöfe bringen, um ihn dort ebenfalls kostenlos abzugeben.
+
+Bitte melden Sie Ihren Grünschnitt mindestens zwei Werktage vor dem Abholtermin an unserem Servicetelefon unter 0800 2008007-0 an.
