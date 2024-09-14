@@ -17,6 +17,7 @@ Zu den Highlights gehören:
 - **`/data`**: Enthält die Daten, die für das Training und die Inferenz verwendet werden.
 - **`/test`**: Testskripte für die verschiedenen Module und Funktionen.
 - **`/archiv`**: Archivierte Skripte und alte Versionen.
+- **`/ipynb`**: Notebooks, die während der Erstellung verwendet wurden.
 
 ## Hauptskripte
 
@@ -27,6 +28,7 @@ Zu den Highlights gehören:
 5. **query_simple_rag.py**: Einfacher RAG-Query-Prozess.
 6. **query_transformation_context_rag.py**: Transformiert die Anfrage im Zusammenhang mit dem Kontext.
 7. **query_transformation_simple_rag.py**: Einfacher Transformationsprozess für Anfragen.
+8. **deepeval_rag.py**: Evaluierungsskript für RAG (in diesem nur Simple RAG). Benötigt OPENAI KEY!
 
 ## Funktionsweise des RAG-Algorithmus
 
@@ -50,10 +52,10 @@ Zukünftige Verbesserungen könnten die Erweiterung des Chatbots auf andere Stä
    ```bash
    https://github.com/dr-redtec/uas_chatbot_sose24.git
 
-2.	Installiere die Abhängigkeiten:
+2.	Installiere die Abhängigkeiten, beachte dass die Requirements nur für die Ausführung des Bots mit den notwenigen Python Skripte im Hauptverzeichnis sind:
     pip install -r requirements.txt
 
-3.  .env Datei erstellen und die benötigten Token hinterlegen für OPENAI, Disco
+3.  .env Datei erstellen und die benötigten Token hinterlegen für OPEOPENAI_API_KEYNAI, DISCORD_BOT_TOKEN, ALLOWED_GUILD_ID
 
 4.	Starte den Chatbot:
     python discord_bot_v1.4.py

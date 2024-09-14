@@ -1,0 +1,9 @@
+# Ignore .env file
+.env
+.DS_Store
+.zip
+
+# Ignore the predictiv_chatbot directory
+predictiv_chatbot/
+venv/
+eva/

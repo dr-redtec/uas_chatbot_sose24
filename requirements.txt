@@ -1,0 +1,8 @@
+sentence-transformers
+langchain-community
+langchain
+langchain_core
+discord.py
+python-dotenv
+chromadb
+deepeval
