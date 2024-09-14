@@ -48,7 +48,7 @@ Zukünftige Verbesserungen könnten die Erweiterung des Chatbots auf andere Stä
 
 1. Klone das Repository:
    ```bash
-   https://github.com/dr-redtec/uas_chatbot_sose24
+   https://github.com/dr-redtec/uas_chatbot_sose24.git
 
 2.	Installiere die Abhängigkeiten:
     pip install -r requirements.txt
