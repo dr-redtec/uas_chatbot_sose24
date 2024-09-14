@@ -6,3 +6,5 @@ discord.py
 python-dotenv
 chromadb
 deepeval
+requests
+numpy
