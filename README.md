@@ -57,5 +57,7 @@ Zukünftige Verbesserungen könnten die Erweiterung des Chatbots auf andere Stä
 
 3.  .env Datei erstellen und die benötigten Token hinterlegen für OPEOPENAI_API_KEYNAI, DISCORD_BOT_TOKEN, ALLOWED_GUILD_ID
 
-4.	Starte den Chatbot:
+4.  Sie müssen OLAMMA installieren auf Ihrem System und Llama3.1 8b und Mistral-NeMo ausführen. Änderen Sie die IP Adressen im llm.py auf ihre Lokale Adresse.
+
+5.	Starte den Chatbot:
     python discord_bot_v1.4.py
