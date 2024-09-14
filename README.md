@@ -29,6 +29,8 @@ Zu den Highlights gehören:
 6. **query_transformation_context_rag.py**: Transformiert die Anfrage im Zusammenhang mit dem Kontext.
 7. **query_transformation_simple_rag.py**: Einfacher Transformationsprozess für Anfragen.
 8. **deepeval_rag.py**: Evaluierungsskript für RAG (in diesem nur Simple RAG). Benötigt OPENAI KEY!
+9. **Webloader und Webscrapper**: Sind erweiterungsmöglichkeiten, um APIs und Webseiten für die Chroma zu laden. Webscrapper ist bereits im Create Chroma enthalten.
+10. **create_chroma.py**: Skript zur Erstellung und Verwaltung eines Chroma-Datenbank-Backends, das zur Speicherung und zum Abrufen von Einbettungen dient.
 
 ## Funktionsweise des RAG-Algorithmus
 
